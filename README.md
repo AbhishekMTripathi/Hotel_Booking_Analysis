@@ -14,7 +14,7 @@
 
 ![Screenshot 2023-10-21 120607](https://github.com/AbhishekMTripathi/Hotel_Booking_Analysis/assets/128289895/a93a5991-ff9d-49ad-8928-34c52c9da74e)
 
-![Screenshot 2023-10-21 120607](https://github.com/AbhishekMTripathi/Hotel_Booking_Analysis/assets/128289895/34819c7d-679a-458f-af1b-1f0fe800de2d)
+![Screenshot 2023-10-21 120623](https://github.com/AbhishekMTripathi/Hotel_Booking_Analysis/assets/128289895/6e1c21e1-c4fc-47b8-8227-4305d21dfb5e)
 
 ![Screenshot 2023-10-21 120549](https://github.com/AbhishekMTripathi/Hotel_Booking_Analysis/assets/128289895/90063842-6cd9-4a0e-82f6-e68e5359b10f)
 
